@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <ParAmeteOraspis>Parameteoraspis</ParAmeteOraspis>
+      <ParAmeteOraspis_stt>Parameteoraspis</ParAmeteOraspis_stt>
+      <ParAmeteOraspis_lower>El Parameteoraspis</ParAmeteOraspis_lower>
+      <ParAmeteOraspis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Parameteoraspis</b>
+         </color>
+         <br/>
+         Click para adoptar un Parameteoraspis, un gran cephalaspido.
+      </ParAmeteOraspis_ltt>
+      <!--gift names-->
+      <ParAmeteOraspis_Gift>Mochila de Parameteoraspis</ParAmeteOraspis_Gift>
+      <ParAmeteOraspis_Gift_stt>Mochila de Parameteoraspis</ParAmeteOraspis_Gift_stt>
+      <ParAmeteOraspis_Gift_lower>La Mochila de Parameteoraspis</ParAmeteOraspis_Gift_lower>
+      <ParAmeteOraspis_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Parameteoraspis</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Parameteoraspis.
+      </ParAmeteOraspis_Gift_ltt>
+</entityname>
+<zoopedia_parameteoraspis>
+ <entry>Parameteoraspis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ParAmeteOraspis/ParAmeteOraspis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Monorhina)</i><br/>Orden: Osteostraci <br/>Familia: Cephalaspididae <br/>Genero: <i>Parameteoraspis</i><br/>Especie: <i>P. Gigas</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Parameteoraspis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es uno de los majores cephalaspidos conocidos, ya que llega a medir un metro.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Tiene uno de los cascos mas anchos conocidos entre todos los cephalaspidos ostracodermos.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Era pariente cercano del cephalaspis.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Parameteoraspis necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Parameteoraspis es un género extinto de peces miembros de la clase Osteostraci. Este pez pudo ahber vivido en las aguas dulces de los arroyos y en los estuarios del período Devónico. Como sus inmediatos ancestros osteostráceos, Parameteoraspis estaba fuertemente acorazado, presumiblemente para defenderse de los predadores placodermos y euriptéridos, y probablemente, para servir como una fuente de calcio para las funciones metabólicas en el medio acuático con niveles bajos de este elemento. Estos poseían parches sensoriales a lo largo del borde y centro de su escudo protector de la cabeza, los cuales se usaban para localizar gusanos y otros organismos enterrados en el cieno. Debido a que la boca de Parameteoraspis estaba situada directamente bajo la cabeza, se piensa que pudo haberse alimentado filtrando sobre el lecho marino, de modo similar a los peces acorazados, gato o esturión. Este movía su cabeza en forma de arado de lado a lado, agitando fácilmente la arena y el polvo dentro del agua, al mismo tiempo revelando los escondites de sus presas, desenterrando gusanos y crustáceos ocultos en el lodo y algas, así como hurgando detritus.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_parameteoraspis>
+</ZT2Strings>

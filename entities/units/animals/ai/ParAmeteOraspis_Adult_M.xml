@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="ParAmeteOraspis_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <ParAmeteOraspis>
+                           <ParAmeteOraspis_Adult>
+                              <ParAmeteOraspis_Adult_M/>
+                           </ParAmeteOraspis_Adult>
+                        </ParAmeteOraspis>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\ParAmeteOraspis\ParAmeteOraspis_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="ParAmeteOraspis_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>
